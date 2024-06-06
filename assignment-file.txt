@@ -50,4 +50,9 @@ What are the key differences, and in what scenarios might each be preferred?
     to software development. Another key difference is that the waterfall model is most convenient for short term projects, while the agile
     model is more convenient for long term projects. 
 
-    Question Four: What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Question Four: What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+    Requirements engineering (RE) refers to the process of defining, documenting, and maintaining requirements in the engineering design process. Requirement engineering provides the appropriate mechanism to understand what the customer desires, analyzing the need, and assessing feasibility, negotiating a reasonable solution,
+    specifying the solution clearly, validating the specifications and managing the requirements as they are transformed into a working system.
+    It offers an effective platform for identifying the wishes of the client by evaluating their requirements, determining its viability, discussing 
+    and defining a fair solution, verifying the criteria, and handling requirements as they are converted into a working system. 
+     
