@@ -28,4 +28,26 @@ Question Two: Explain the various phases of the Software Development Life Cycle.
     The maintenance phase is the stage where ongoing support is provided, together with updates and enhancements to the 
     software after deployment.
 
-Question Three: 
+Question Three: Compare and contrast the Agile and Waterfall models of software development. 
+What are the key differences, and in what scenarios might each be preferred?
+
+    Software development models are various processes or methods that are chosen for project development depending on the objectives and goals 
+    of the project. Agile and Waterfall are some of the models of software development. Others include scrum, spiral, prototype, incremental, e.t.c.
+    
+    The Waterfall model
+    The waterfall model is linear and sequential, which means that a development phase cannot begin until the previous phase is completed.
+    i.e the development phases will never overlap. Using the SDLC as an example, in an organization, this means that the project will first pass
+    through the requirement phase. After the phase is completed and finalized, The project is moved to the second phase which is the desgin phase.
+    After everything has been approved and finalized, the project proceeds to the Implementation stage. It carries on this way, until it gets to
+    the final stage which is the maintenance stage.
+
+    The Agile model
+    The agile model is an exact opposit of the waterfall stage. it is a type of software development methodology that anticipates the need 
+    for flexibility and applies a level of pragmatism to the delivery of the finished product. It also emphasizes the importance of team 
+    collaboration and delivering a working product quickly to meet customer needs and expectations. 
+
+    The key differences between the two models is that one adopts a linear top to bottom approach, while the other adopts an iterative approach
+    to software development. Another key difference is that the waterfall model is most convenient for short term projects, while the agile
+    model is more convenient for long term projects. 
+
+    Question Four: What is requirements engineering? Describe the process and its importance in the software development lifecycle.
