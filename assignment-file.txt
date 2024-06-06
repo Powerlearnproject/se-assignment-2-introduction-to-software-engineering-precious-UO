@@ -1,0 +1,31 @@
+Question One: What is software engineering, and how does it differ from traditional programming?
+
+    Software engineering is the systematic application of engineering principles, methods and tools to the development 
+    and maintenance of high quality software systems. It involves the design, development, testing, deployment and 
+    maintenance of software products. while traditional programming refers to the process of writing down specific sets of 
+    instructions for a computer to execute. According to Anto Semeraro "Programming can be seen as a subset of software 
+    engineering, a craft focused on the art of writing code, and the primary concern is to have all the code functions as 
+    intended, solving specific problems, or performing certain operations. On the other hand, software engineering 
+    encompasses a broader spectrum, which includes not only the act of writing code but also the 
+    structured process of developing, maintaining, and managing software projects."
+
+Question Two: Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+    The software development life cycle(SDLC) is a model that guides software engineering teams on how to efficiently and 
+    effectively design and build high-quality softwares. 
+    It has six stages which are:
+    The requirement phase where the teams gather and document user needs and system requirements.
+
+    The Design Phase where the teams create a high-level and detailed designs of the software architecture and user interface.
+
+    The Implementation phase which is where the programmers step in to write codes and build the software
+     according to desing specifications.   
+
+    The testing phase where various tests are conducted to ensure the software meets quality standards and functions. 
+
+    The deployment phase is the stage where the software is released to users or customers.
+
+    The maintenance phase is the stage where ongoing support is provided, together with updates and enhancements to the 
+    software after deployment.
+
+Question Three: 
