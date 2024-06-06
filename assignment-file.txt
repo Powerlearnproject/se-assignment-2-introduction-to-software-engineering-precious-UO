@@ -55,4 +55,25 @@ Question Four: What is requirements engineering? Describe the process and its im
     specifying the solution clearly, validating the specifications and managing the requirements as they are transformed into a working system.
     It offers an effective platform for identifying the wishes of the client by evaluating their requirements, determining its viability, discussing 
     and defining a fair solution, verifying the criteria, and handling requirements as they are converted into a working system. 
-     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+    Requirements Engineering: A Beginner’s Guide. https://xebrio.com/requirements-engineering/
+    
+    Top 8 Software Development Life Cycle (SDLC) Models used in Industry. https://www.geeksforgeeks.org/top-8-software-development-models-used-in-industry/
+   
+    Understanding the Contrast: Software Engineering vs. Programming. https://blog.stackademic.com/heres-the-real-difference-between-programming-and-software-engineering-adbff0bc4e79
+
